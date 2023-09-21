@@ -1,18 +1,19 @@
-import React from "react";
-import UserContextProvider from "./Context/UserContextProvider";
-import Login from "./Components/Login";
-import Profile from "./Components/Profile";
- 
-const App = () => {
-  return (
-    <>
-      <UserContextProvider>
-        <h1 className="text-center">REACT WITH CHAI AND CODE</h1>
-        <Login/>
-        <Profile/>
-      </UserContextProvider>
-    </>
-  );
-};
 
-export default App;
+import './App.css'
+import Login from './Components/Login'
+import Profile from './components/Profile'
+import UserContextProvider from './context/UserContextProvider'
+
+function App() {
+  
+
+  return (
+    <UserContextProvider>
+      <h1>React with Chai and share is important</h1>
+      <Login />
+      <Profile />
+    </UserContextProvider>
+  )
+}
+
+export default App
