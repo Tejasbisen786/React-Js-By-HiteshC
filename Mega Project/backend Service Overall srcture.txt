@@ -1,0 +1,9 @@
+Appwrite :- BAAS : Databases,Images,Storage,api
+
+TinyMCE: Text EDitor Libraby provided By React ( Component Libraby)
+
+HTML-React-Parse: Html Code Parsing Library
+
+React Hook Form:  For Form
+
+.Env: Envireoment File For securiing purpose
