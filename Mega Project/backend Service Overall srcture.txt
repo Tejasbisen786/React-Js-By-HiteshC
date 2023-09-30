@@ -7,3 +7,6 @@ HTML-React-Parse: Html Code Parsing Library
 React Hook Form:  For Form
 
 .Env: Envireoment File For securiing purpose
+
+
+regx exp :  Pattern Email you can extract the pattern from rexexp
